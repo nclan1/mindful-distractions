@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "mindful-distraction",
+    "version": "1.0.1",
+    "description": "A minimal counter for distractions",
+    "action": {
+        "default_icon": {
+            "16": "assets/squiggle.png",
+            "24": "assets/squiggle.png",
+            "32": "assets/squiggle.png"
+        },
+        "default_title": "distracted?",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+
+  }
