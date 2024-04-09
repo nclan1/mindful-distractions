@@ -7,6 +7,7 @@
 # get started
 you can install this chrome extension right from the chrome store here:
 https://chromewebstore.google.com/detail/mindful-distraction/nefmndoaknpmplfiiclkinomfoldncjb?hl=en-US&utm_source=ext_sidebar
+![Screenshot 2024-04-08 120953](https://github.com/nclan1/mindful-distractions/assets/144292887/55037014-3849-4578-b94c-c98a7be341e0)
 # usage
 when one feels the urge to do something distracting (picking up your phone, opening an unproductive tab), simply press the counter and generates a new line
 it helps you become mindful of that feeling/urge, giving you time to think before you grab that phone
